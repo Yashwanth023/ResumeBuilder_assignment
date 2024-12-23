@@ -51,14 +51,6 @@ REACT_APP_API_URL=http://localhost:5000
 npm start
 ```
 
-I'll help you create a complete CV Builder application with separate frontend and backend codebases, along with a detailed README.md file.
-
-First, let's create the README.md file:
-
-```markdown file="README.md"
-...
-```
-
 ## Prerequisites
 
 - Node.js (v14 or higher)
